@@ -1,0 +1,39 @@
+@import url("./fonts.css");
+@import url("./navBar.css");
+@import url("./HomeBanner.css");
+@import url("./HomeService.css");
+@import url("./HomeWhySection.css");
+@import url("./WhatINspiresUs.css");
+@import url("./OurFarmers.css");
+@import url("./Blog.css");
+@import url("./footer.css");
+@import url("./Contact.css");
+@import url("./Gallery.css");
+@import url("./MembersCount.css");
+@import url("./Partners.css");
+@import url("./About.css");
+@import url("./BlogDetails.css");
+
+* {
+  font-family: poppins, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0px;
+  padding: 0px;
+  border-spacing: 0px;
+  overflow-x: hidden;
+}
+
+button,
+input,
+textarea {
+  outline: none;
+}
